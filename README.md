@@ -27,3 +27,7 @@ Here I want to share some code to make Lubuntu 16.04 a little bit more comfortab
        the script to.
     3. Make the file executable with "sudo chmod u+x "terminal_transparency.sh"
     4. Execute the script with "terminal_transparency"
+
+
+## Warning!
+  Although the scripts on my system work smoothly, I am not liable for any damage that may occur through use.
