@@ -1,9 +1,9 @@
 #!/bin/bash
 echo "Do you want to have real transparency for LXTerminal?"
 
-read -r -p "y/n: " eingabe
+read -r -p "y/n: " answer
 
-if [ "$eingabe" == "y" ]
+if [ "$answer" == "y" ]
   then
     sudo apt-get install compton
     cd /
@@ -12,7 +12,7 @@ if [ "$eingabe" == "y" ]
     cat > compton.config <<EOF
     opacity-rule = ["85:class_g = 'lxterminal'"];
 EOF
-compton -b 
+compton -b
 
 sleep 2
 

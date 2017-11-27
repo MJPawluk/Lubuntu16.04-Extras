@@ -1,10 +1,10 @@
 #!/bin/bash
 echo "This script enables the \"empty-trash\" selection on right-clicking on the desktop trash icon. Do you want to proceed?"
 
-read -r -p "y/n: " eingabe
+read -r -p "y/n: " answer
 
 
-if [ "$eingabe" == "y" ]
+if [ "$answer" == "y" ]
   then
   sudo apt-get install trash-cli
 
@@ -45,7 +45,7 @@ if [ "$antwort" == "y" ]
 then
 reboot
 else
-echo "The changes will become active with the next reboot. Bye!"
+echo "The changes will become active after rebooting. Bye!"
 sleep 5
 fi
 fi
