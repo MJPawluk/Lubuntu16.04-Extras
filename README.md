@@ -10,7 +10,7 @@ Here I want to share some code to make Lubuntu 16.04 a little bit more comfortab
   ### Usage:
     1. Download the file.
     2. Open a terminal and navigate to the same directory you downloaded
-        the script to.
+       the script to.
     3. Make the file executable with "sudo chmod u+x "empty_trash_menu.sh"
     4. Execute the script with "./empty_trash_menu.sh"
 
@@ -24,6 +24,6 @@ Here I want to share some code to make Lubuntu 16.04 a little bit more comfortab
   ### Usage:
     1. Download the file.
     2. Open a terminal and navigate to the same directory you downloaded
-      the script to.
+       the script to.
     3. Make the file executable with "sudo chmod u+x "terminal_transparency.sh"
     4. Execute the script with "terminal_transparency"
