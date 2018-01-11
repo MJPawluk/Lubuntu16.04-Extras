@@ -16,7 +16,7 @@ compton -b
 
 sleep 2
 
-echo "Now lxterminal will become transparent if you change the transparency of the backround-colour in settings. "
+echo "Now lxterminal will become transparent if you change the transparency of the backround-color in settings. "
 sleep 2
 
 echo "Have a nice day!"

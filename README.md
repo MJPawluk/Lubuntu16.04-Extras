@@ -6,6 +6,8 @@ Here I want to share some code to make Lubuntu 16.04 a little bit more comfortab
   In Lubuntu 16.04 there is no option to empty the trash if you right-click on it.
   This script downloads all the necessary packages and implements this function to your system.
   I hope it works for you as it worked for me.
+  If you want to know what the script does, I got it from [here](http://bernaerts.dyndns.org/linux/323-lubuntu-trusty-empty-trash-menu). Thank you Nicholas Bernaerts! 
+  
 
   ### Usage:
     1. Download the file.
